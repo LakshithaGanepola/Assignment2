@@ -16,7 +16,6 @@ Otherwise, click on the drop down under the "Google APIs" logo at the top left, 
 Click on "API Access", and then on "Create an OAuth 2.0 Client ID...".
 Enter a product name and click "Next".
 Select "Installed application" and click "Create client ID".
-In the newly created "Client ID for installed applications", copy the client ID and client secrets into the AdSenseSample.cs file.
 Activate the Drive API for your project.
 
 Setup Project in Visual Studio
